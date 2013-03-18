@@ -1,6 +1,10 @@
 x3dac
 =====
 
+# This is more than 5 years old and it is NOT WORKING.
+I will try to do my best in my free time to have this up to date.
+
+
 Absorption correction based on a three-dimensional model reconstruction from visual images
 
 ### R. M. F. Leal, S. C. M. Teixeira, V. Rey, V. T. Forsyth and E. P. Mitchell
@@ -10,4 +14,11 @@ The results are presented of a feasibility study for the application of absorpti
 
 ## Please cite:
 Leal _et al_, J. Appl. Cryst. (2008). **41**, 729-737 
+
+# Requisities:
+ZThread 2.3.2: http://zthread.sourceforge.net/download.html
+CCP4 libs : http://www.ccp4.ac.uk/
+OpenCV: http://opencv.willowgarage.com/wiki/
+NewMat : http://www.robertnz.net/nm_intro.htm
+
 

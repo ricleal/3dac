@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+# My defs
+Debug/
+lib/
+*.bck
+*.bak
+
